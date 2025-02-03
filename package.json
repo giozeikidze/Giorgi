@@ -1,0 +1,23 @@
+{
+  "name": "giorgi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giozeikidze/Giorgi.git"
+  },
+  "keywords": [],
+  "author": "Giorgi Zeikidze <gzei4366@stu.raritanval.edu> (https://github.com/giozeikidze)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giozeikidze/Giorgi/issues"
+  },
+  "homepage": "https://github.com/giozeikidze/Giorgi#readme",
+ "bin": {
+ "your-name": "index.js"
+ }
+}
