@@ -19,5 +19,6 @@
   "homepage": "https://github.com/giozeikidze/Giorgi#readme",
  "bin": {
  "your-name": "index.js"
+ 
  }
 }
