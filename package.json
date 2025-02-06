@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint index.js"
   },
   "repository": {
     "type": "git",
@@ -17,8 +18,14 @@
     "url": "https://github.com/giozeikidze/Giorgi/issues"
   },
   "homepage": "https://github.com/giozeikidze/Giorgi#readme",
- "bin": {
- "your-name": "index.js"
- 
- }
+  "bin": {
+    "your-name": "index.js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.19.0",
+    "eslint": "^9.19.0",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^15.14.0",
+    "typescript-eslint": "^8.23.0"
+  }
 }
